@@ -6,4 +6,4 @@
 
 ## 下面是效果图
 
-![图片1](F:\白\桌面文件\作业\matlab科学计算\课程设计\图片1.png)![图片1](F:\白\桌面文件\作业\matlab科学计算\课程设计\图片2.png)
+![图片1](https://github.com/bai3/matlab/blob/master/%E5%9B%BE%E7%89%871.png)![图片2]https://github.com/bai3/matlab/blob/master/%E5%9B%BE%E7%89%872.png)
